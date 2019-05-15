@@ -1,0 +1,3 @@
+python monodepth_simple.py --image_path 0000000001.png --checkpoint_path model_kitti/model_kitti
+
+python monodepth_simple.py --checkpoint_path model_kitti/model_kitti
